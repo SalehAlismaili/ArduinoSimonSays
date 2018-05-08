@@ -1,5 +1,4 @@
 const int Last = 100;// sets a limit
-const int last = 4;
 
 const int buttonPin= 13;  // the number of the pushbutton pin 13
 const int buttonPin2 = 12; // the number of the pushbutton pin 12
@@ -10,6 +9,7 @@ const int ledPin2 =  2; // second LED connected to digital pin 2
 const int ledPin3 =  3;// third LED connected to digital pin 3
 
 const int buzzer = 9; //the number of the buzzer pin 9
+const int last = 4;
 int buttonState = 0; // variable for reading the pushbutton status
 int level = 1; // the game level
 int speedd = 1000; // the game velocity
