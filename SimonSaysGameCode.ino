@@ -1,5 +1,5 @@
 const int Last = 100;// sets a limit
-const int last = 4;//sets game length
+const int last = 4;
 
 const int buttonPin= 13;  // the number of the pushbutton pin 13
 const int buttonPin2 = 12; // the number of the pushbutton pin 12
